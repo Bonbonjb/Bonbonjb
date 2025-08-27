@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brenda Bonareri (Bonbonjb)</h1>
 
 <p align="center">
-  <em>Learner at <strong>ALX Software Engineering Program</strong> | Aspiring Software Engineer | Passionate About using tech and data to solve real-world problems, drive impact, and build smarter systems.</em>
+  <em>Aspiring Software Engineer | Passionate About using tech and data to solve real-world problems, drive impact, and build smarter systems.</em>
 </p>
 
 ---
